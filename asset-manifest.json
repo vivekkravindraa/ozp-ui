@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ozp-ui/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ozp-ui/static/js/main.8b4eaa44.chunk.js",
+    "main.js.map": "/ozp-ui/static/js/main.8b4eaa44.chunk.js.map",
+    "runtime-main.js": "/ozp-ui/static/js/runtime-main.fc63d4dd.js",
+    "runtime-main.js.map": "/ozp-ui/static/js/runtime-main.fc63d4dd.js.map",
+    "static/js/2.945f16b9.chunk.js": "/ozp-ui/static/js/2.945f16b9.chunk.js",
+    "static/js/2.945f16b9.chunk.js.map": "/ozp-ui/static/js/2.945f16b9.chunk.js.map",
+    "static/js/3.cc62f5ad.chunk.js": "/ozp-ui/static/js/3.cc62f5ad.chunk.js",
+    "static/js/3.cc62f5ad.chunk.js.map": "/ozp-ui/static/js/3.cc62f5ad.chunk.js.map",
+    "index.html": "/ozp-ui/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ozp-ui/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.945f16b9.chunk.js.LICENSE.txt": "/ozp-ui/static/js/2.945f16b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc63d4dd.js",
+    "static/js/2.945f16b9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8b4eaa44.chunk.js"
+  ]
+}
